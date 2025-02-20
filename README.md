@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JigsProgrammer
-- 👀 I’m interested in programming, web development, music, books, dancing, and singing.
-- 🌱 I’m currently learning web development essentials like HTML, CSS, and JavaScript.
+- 👀 I’m interested in programming, music, books, dancing, and singing.
+- 🌱 I’m currently learning all programming concepts in a university.
 - 💞️ I’m looking to collaborate on none at the moment.
 - 📫 How to reach me perhaps on this platform.
 - 😄 Pronouns: he/him
