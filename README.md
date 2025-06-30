@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JigsProgrammer
+- 👋 Hi, I’m @JOHN
 - 👀 I’m interested in programming, music, books, dancing, and singing.
 - 🌱 I’m currently learning all programming concepts in a university.
 - 💞️ I’m looking to collaborate on none at the moment.
